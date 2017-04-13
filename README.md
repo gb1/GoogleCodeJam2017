@@ -1,19 +1,8 @@
-# Gcj
+# Google Code Jam 2017 practice problems
 
-**TODO: Add description**
+#### https://code.google.com/codejam/contest/3264486/dashboard#s=p0
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `gcj` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:gcj, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/gcj](https://hexdocs.pm/gcj).
-
+* Oversized Pancake Flipper ✔️
+* Tidy Numbers ❌
+* Bathroom Stalls ❌
+* Fashion Show ❌
